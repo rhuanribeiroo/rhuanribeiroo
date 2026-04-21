@@ -1,7 +1,5 @@
 <div align="center">
 
-![avatar](https://github.com/rhuanribeiroo.png)
-
 # Rhuan Ribeiro
 
 *Aspiring Developer · Full-stack in progress · Based in Brazil*
