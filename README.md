@@ -56,7 +56,7 @@
 ## Contact
 
 - 🐙 GitHub: [rhuanribeiroo](https://github.com/rhuanribeiroo)
-- 💼 LinkedIn: [linkedin.com/in/rhuanribeiroo](https://linkedin.com/in/rhuanribeiroo)
+- 💼 LinkedIn: [linkedin.com/in/rhuanribeirodeoliveira](https://linkedin.com/in/rhuanribeirodeoliveira)
 
 ---
 
