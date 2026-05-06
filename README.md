@@ -35,9 +35,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🎓 **Educational Platform** | A system designed to help students learn more effectively | React · Node.js |
-| 🧠 **Smart Tools App** | Productivity tools for daily tasks | JavaScript |
-| 🌐 **Portfolio Website** | Personal developer portfolio built with React | React · CSS |
+| 🎓 **DEVCOLONY** | A system designed to help programming students learn more effectively | React · Node.js |
 
 ---
 
