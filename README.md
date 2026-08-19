@@ -1,61 +1,51 @@
-<div align="center">
+# Hi, I'm Rhuan 👋
 
-# Rhuan Ribeiro
-
-*Aspiring Developer · Full-stack in progress · Based in Brazil*
-
-</div>
+Computer Engineering student at **UFPB** (Universidade Federal da Paraíba), currently in my 3rd semester. I build things for the web — mostly with React and Postgres.
 
 ---
 
-## About me
+### 🚀 What I'm working on
 
-- 🌱 Currently learning full-stack web development — React, Node.js & JavaScript
-- 🏗️ Building real-world projects with a focus on impact and clean code
-- 🧠 Passionate about education, problem-solving & open source
-- 📍 João Pessoa, Paraíba, Brasil
+**[Livinvite](https://livinvite.com.br)** — a SaaS platform for digital wedding invitations.
 
----
+It started as me hand-coding a separate site for every client. Now it's a multi-tenant product where couples pick a template, edit it themselves, and publish — no developer in the loop.
 
-## Tech Stack
+Some of the interesting parts:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- **Dynamic renderer** — a single React app resolves templates from a registry and loads content from Postgres at runtime, replacing per-client Vite builds
+- **In-context visual editor** — click any text on the rendered invite to edit it (iframe + `postMessage`), same interaction pattern as Wix and Webflow
+- **Multi-tenant with RLS** — Row Level Security in PostgreSQL enforcing per-owner data isolation across all invitations and RSVPs
+- **Upload pipeline** — browser-side compression, cache-busting filenames, Supabase Storage
 
 ---
 
-## Featured Projects
+### 🏆 Awards
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🎓 **DEVCOLONY** | A system designed to help programming students learn more effectively | React · Node.js |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhuanribeiroo&show_icons=true&theme=graywhite&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhuanribeiroo&layout=compact&theme=graywhite&hide_border=true)
-
-</div>
+**2nd Place — Trilhathon 2025.2** (Healthcare track)
+Co-developed **Destravar**, an app to support people with fluency disorders (stuttering).
 
 ---
 
-## Contact
+### 🛠️ Tech
 
-- 🐙 GitHub: [rhuanribeiroo](https://github.com/rhuanribeiroo)
-- 💼 LinkedIn: [linkedin.com/in/rhuanribeirodeoliveira](https://linkedin.com/in/rhuanribeirodeoliveira)
+```
+Languages     Python · C · JavaScript · SQL · HTML/CSS
+Frontend      React · Vite · Framer Motion · GSAP
+Backend       Supabase · PostgreSQL
+Tools         Git · Claude Code · Antigravity
+```
 
 ---
 
-*Always learning, always building.*
+### 📚 Also
+
+- Participant at **TRILHA** (UFPB extension project) — programming classes and workshops for Computer Engineering students
+- Previously: Social Media & Content at Mix Tonner, Administrative Apprentice at Energisa Paraíba
+- **English C1** (EF SET certified)
+
+---
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhuanribeirodeoliveira)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rurhuan14@gmail.com)
