@@ -32,7 +32,7 @@ Co-developed **Destravar**, an app to support people with fluency disorders (stu
 Languages     Python · C · JavaScript · SQL · HTML/CSS
 Frontend      React · Vite · Framer Motion · GSAP
 Backend       Supabase · PostgreSQL
-Tools         Git · Claude Code · Antigravity
+Tools         Git 
 ```
 
 ---
